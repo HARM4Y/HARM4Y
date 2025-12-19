@@ -1,16 +1,20 @@
 ## Hi there 👋
+Open to job opportunities.......
+如果有 WLB 的工作，方向合适，欢迎联系我。WLB 对我来说很重要。QQ: 3173566138 
 
-<!--
-**HARM4Y/HARM4Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education  
+#### 山东大学 本科  
+计算机科学与技术专业 2018.09 - 2022.07  
 
-Here are some ideas to get you started:
+## Experience  
+#### 三未信安科技股份有限公司  
+研发透明加密 Windows 文件系统驱动模块 2021.07 - 2021.10  
+#### 华为北京研究所  
+##### ICT产品与解决方案 2022.10 - 2025.12  
+研发 IPS 入侵防御系统。IPS 盒式款型检测规模倍增，获 2024 年数据通信研发部长嘉奖令（关键技术竞争力提升 TOP 难题攻关奖）  
+##### 2012实验室 OS内核实验室 2025.12 - 至今  
+HarmonyOS内核安全，HIDS 主机入侵检测系统, seccomp  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects  
+#### Windows 文件系统的存储加密产品  
+发明专利一篇 ZL202210549949.1：基于密文挪用的文件透明加解密方法及系统  
